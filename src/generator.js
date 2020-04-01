@@ -1,22 +1,25 @@
 const prefixes = [
-  "nam",
-  "runn",
-  "crunch",
-  "shop",
-  "swip",
-  "pet",
-  "dog",
-  "food",
-  "cash",
+  "beach",
   "book",
+  "cash",
   "chef",
   "cod",
-  "programm",
   "concert",
-  "music",
   "cook",
-  "beach",
-  "trip"
+  "crunch",
+  "desk",
+  "dog",
+  "food",
+  "music",
+  "nam",
+  "pet",
+  "programm",
+  "runn",
+  "shop",
+  "swip",
+  "trip",
+  "typ",
+  "verb"
 ];
 const suffixes = ["ify", "ly", "r"];
 function randomPrefix() {
