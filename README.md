@@ -1,3 +1,14 @@
+
+# Startup Name Generator
+
+This is a silly project that I made just to mess around with Next.js based APIs.
+
+You click a button and get a randomized startup-sounding name.
+
+The even simpler frontend code is here: https://github.com/sjotterman/namr-frontend
+
+You can see the finished product at https://namr.samuelotterman.com/
+
 # API routes with REST
 
 Next.js ships with [API routes](https://github.com/zeit/next.js#api-routes), which provide an easy solution to build your own `API`. This example shows how it can be used to create your [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) api.
