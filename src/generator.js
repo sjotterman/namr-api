@@ -11,6 +11,7 @@ const prefixes = [
   "dog",
   "food",
   "lesson",
+  "max",
   "music",
   "nam",
   "pet",
